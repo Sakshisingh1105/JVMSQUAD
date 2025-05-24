@@ -74,6 +74,6 @@ This project was created as part of an academic assignment to demonstrate socket
 
 ---
 
-> Created by: [Your Name]  
-> Department of Computer Science  
-> Semester 6
+> Created by: JVMSQUAD  
+> Department of B.Tech Computer Science & Engineering.
+> Section - 05
